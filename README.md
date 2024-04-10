@@ -26,8 +26,8 @@ Step 6:
 End the Program.
 
 ## Program:
-Name : SACHIN.C
-Reg no : 212222230125
+Name : VINUSH.CV
+Reg no : 212222230176
 
 ```c#
 using System;
