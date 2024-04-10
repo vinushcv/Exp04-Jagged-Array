@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exp04-Jagged-Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d4dc17f06426f79efb85170bb4a6e45d51f767d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exp04-Jagged-Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exp04-Jagged-Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

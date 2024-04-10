@@ -57,7 +57,7 @@ public class Pattern
 ```
 ## Output:
 
-![image](https://github.com/vinushcv/Exp04-Jagged-Array/assets/113975318/b22181df-d3e8-4858-a315-2e1f2313ab21)
+![alt text](image.png)
 
 
 ## Result
